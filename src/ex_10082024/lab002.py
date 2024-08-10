@@ -4,3 +4,7 @@ sum = a + b
 
 print(sum)
 print(type(sum))
+
+sum = sum + 1
+
+print(sum)
