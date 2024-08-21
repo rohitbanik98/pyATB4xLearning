@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="testing">
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab_020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab_021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab_022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab_40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab_41.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab_0026.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab_0026.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,10 @@
     "Python.Task#3.executor": "Run",
     "Python.Task#4.executor": "Run",
     "Python.Task#5.executor": "Run",
+    "Python.Task#6.executor": "Run",
+    "Python.Task#7.executor": "Run",
+    "Python.Task#8.executor": "Run",
+    "Python.Task#9.executor": "Run",
     "Python.input.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab_001.executor": "Run",
@@ -70,6 +72,7 @@
     "Python.lab_020.executor": "Run",
     "Python.lab_021.executor": "Run",
     "Python.lab_022.executor": "Run",
+    "Python.lab_41.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -146,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723517276271</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="testing">
+      <option name="closed" value="true" />
+      <created>1723952321476</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723952321476</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
