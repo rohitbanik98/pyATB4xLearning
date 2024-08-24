@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="Tasks 7,8,9">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab_42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab_44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/whileloop.py" afterDir="false" />
+    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="Loops">
+      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/functions_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/funtions_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab_function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/sum_of_three.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_taska/Task#7.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_taska/Task#7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,8 @@
   "keyToString": {
     "Python.Lab_0023_calculator.executor": "Run",
     "Python.Task#1.executor": "Run",
+    "Python.Task#10.executor": "Run",
+    "Python.Task#11.executor": "Run",
     "Python.Task#2.executor": "Run",
     "Python.Task#3.executor": "Run",
     "Python.Task#4.executor": "Run",
@@ -68,8 +71,12 @@
     "Python.Task#7.executor": "Run",
     "Python.Task#8.executor": "Run",
     "Python.Task#9.executor": "Run",
+    "Python.args.executor": "Run",
     "Python.break.executor": "Run",
     "Python.continue.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.functions_parameter.executor": "Run",
+    "Python.funtions_return.executor": "Run",
     "Python.input.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab_001.executor": "Run",
@@ -85,8 +92,10 @@
     "Python.lab_42.executor": "Run",
     "Python.lab_43.executor": "Run",
     "Python.lab_44.executor": "Run",
+    "Python.lab_function1.executor": "Run",
     "Python.match.executor": "Run",
     "Python.pass.executor": "Run",
+    "Python.sum_of_three.executor": "Run",
     "Python.whileloop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -188,13 +197,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724210958083</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Loops">
+      <option name="closed" value="true" />
+      <created>1724294643913</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724294643913</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
     <MESSAGE value="testing" />
     <MESSAGE value="Tasks 7,8,9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 7,8,9" />
+    <MESSAGE value="Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
   </component>
 </project>
