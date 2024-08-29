@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="Loops">
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_taska/Task#11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/functions_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/funtions_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/lab_function1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/sum_of_three.py" afterDir="false" />
+    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="Functions and loops">
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/ddecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/outer_inner_funct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiple_argu_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_taska/Task#7.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_taska/Task#7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/args.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,7 @@
     "Python.args.executor": "Run",
     "Python.break.executor": "Run",
     "Python.continue.executor": "Run",
+    "Python.dictionary.executor": "Run",
     "Python.function.executor": "Run",
     "Python.functions_parameter.executor": "Run",
     "Python.funtions_return.executor": "Run",
@@ -85,6 +88,7 @@
     "Python.lab_0024_formated_num.executor": "Run",
     "Python.lab_0025_list.executor": "Run",
     "Python.lab_0026.executor": "Run",
+    "Python.lab_01.executor": "Run",
     "Python.lab_020.executor": "Run",
     "Python.lab_021.executor": "Run",
     "Python.lab_022.executor": "Run",
@@ -93,12 +97,18 @@
     "Python.lab_43.executor": "Run",
     "Python.lab_44.executor": "Run",
     "Python.lab_function1.executor": "Run",
+    "Python.list.executor": "Run",
     "Python.match.executor": "Run",
+    "Python.multiple_argu_function.executor": "Run",
+    "Python.outer_inner_funct.executor": "Run",
     "Python.pass.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.sum_of_three.executor": "Run",
+    "Python.tuple.executor": "Run",
     "Python.whileloop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -205,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724294643913</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Functions and loops">
+      <option name="closed" value="true" />
+      <created>1724468359695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724468359695</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +231,7 @@
     <MESSAGE value="testing" />
     <MESSAGE value="Tasks 7,8,9" />
     <MESSAGE value="Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
+    <MESSAGE value="Functions and loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions and loops" />
   </component>
 </project>

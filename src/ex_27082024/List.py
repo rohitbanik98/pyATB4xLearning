@@ -1,0 +1,1 @@
+items = ["bread","milk",""]
