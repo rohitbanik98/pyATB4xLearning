@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="Functions and loops">
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/ddecorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/outer_inner_funct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiple_argu_function.py" afterDir="false" />
+    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="List,tuple,dictionary,functions">
+      <change afterPath="$PROJECT_DIR$/src/ex_03092024/OOPSpart2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03092024/lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03092024/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/OOPs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24082024/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024/args.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab_0023_calculator.executor": "Run",
+    "Python.OOPSpart2.executor": "Run",
+    "Python.OOPs.executor": "Run",
     "Python.Task#1.executor": "Run",
     "Python.Task#10.executor": "Run",
     "Python.Task#11.executor": "Run",
@@ -98,6 +95,7 @@
     "Python.lab_44.executor": "Run",
     "Python.lab_function1.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.loginpage.executor": "Run",
     "Python.match.executor": "Run",
     "Python.multiple_argu_function.executor": "Run",
     "Python.outer_inner_funct.executor": "Run",
@@ -223,8 +221,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724468359695</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="List,tuple,dictionary,functions">
+      <option name="closed" value="true" />
+      <created>1724899799123</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724899799123</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
@@ -232,6 +249,7 @@
     <MESSAGE value="Tasks 7,8,9" />
     <MESSAGE value="Loops" />
     <MESSAGE value="Functions and loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions and loops" />
+    <MESSAGE value="List,tuple,dictionary,functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="List,tuple,dictionary,functions" />
   </component>
 </project>
