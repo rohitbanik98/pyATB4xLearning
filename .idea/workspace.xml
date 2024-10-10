@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="List,tuple,dictionary,functions">
-      <change afterPath="$PROJECT_DIR$/src/ex_03092024/OOPSpart2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03092024/lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03092024/loginpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/OOPs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/__init__.py" afterDir="false" />
+    <list default="true" id="22d4104e-7b8d-4a07-9c34-55e7c5d20ff2" name="Changes" comment="OOPS">
+      <change afterPath="$PROJECT_DIR$/Automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/test_Lab01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/Inhheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05092024/encapsulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,61 +53,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab_0023_calculator.executor": "Run",
-    "Python.OOPSpart2.executor": "Run",
-    "Python.OOPs.executor": "Run",
-    "Python.Task#1.executor": "Run",
-    "Python.Task#10.executor": "Run",
-    "Python.Task#11.executor": "Run",
-    "Python.Task#2.executor": "Run",
-    "Python.Task#3.executor": "Run",
-    "Python.Task#4.executor": "Run",
-    "Python.Task#5.executor": "Run",
-    "Python.Task#6.executor": "Run",
-    "Python.Task#7.executor": "Run",
-    "Python.Task#8.executor": "Run",
-    "Python.Task#9.executor": "Run",
-    "Python.args.executor": "Run",
-    "Python.break.executor": "Run",
-    "Python.continue.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.functions_parameter.executor": "Run",
-    "Python.funtions_return.executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.lab002.executor": "Run",
-    "Python.lab_001.executor": "Run",
-    "Python.lab_0018.executor": "Run",
-    "Python.lab_002.executor": "Run",
-    "Python.lab_0024_formated_num.executor": "Run",
-    "Python.lab_0025_list.executor": "Run",
-    "Python.lab_0026.executor": "Run",
-    "Python.lab_01.executor": "Run",
-    "Python.lab_020.executor": "Run",
-    "Python.lab_021.executor": "Run",
-    "Python.lab_022.executor": "Run",
-    "Python.lab_41.executor": "Run",
-    "Python.lab_42.executor": "Run",
-    "Python.lab_43.executor": "Run",
-    "Python.lab_44.executor": "Run",
-    "Python.lab_function1.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.loginpage.executor": "Run",
-    "Python.match.executor": "Run",
-    "Python.multiple_argu_function.executor": "Run",
-    "Python.outer_inner_funct.executor": "Run",
-    "Python.pass.executor": "Run",
-    "Python.set.executor": "Run",
-    "Python.sum_of_three.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.whileloop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab01.test_verify_sum1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab01.test_verify_sum2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inhheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0023_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOPSpart2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOPs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions_parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funtions_return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0024_formated_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0025_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_function1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loginpage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_argu_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.outer_inner_funct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileloop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab01.test_verify_sum2">
+    <configuration name="Python tests for test_Lab01.test_verify_sum1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab01.test_verify_sum1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab01.test_verify_sum2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab01.test_verify_sum2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Lab01.test_verify_sum2" />
+        <item itemvalue="Python tests.Python tests for test_Lab01.test_verify_sum1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -229,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724899799123</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="OOPS">
+      <option name="closed" value="true" />
+      <created>1725331147688</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725331147688</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +299,7 @@
     <MESSAGE value="Loops" />
     <MESSAGE value="Functions and loops" />
     <MESSAGE value="List,tuple,dictionary,functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="List,tuple,dictionary,functions" />
+    <MESSAGE value="OOPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS" />
   </component>
 </project>
